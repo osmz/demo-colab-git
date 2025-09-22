@@ -1,3 +1,5 @@
+import numpy as np
+
 def sumar(c, d):
     return c + d
 
