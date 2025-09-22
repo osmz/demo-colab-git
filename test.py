@@ -1,3 +1,5 @@
+import pandas as pd
+
 def sumar(c, d):
     return c + d
 
