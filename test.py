@@ -1,5 +1,5 @@
-def sumar(a, b):
-    return a + b
+def sumar(c, d):
+    return c + d
 
 def main():
     num1 = float(input("Ingrese el primer número: "))
